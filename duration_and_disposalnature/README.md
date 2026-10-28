@@ -1,4 +1,4 @@
-# Federated duration + disposal-nature prediction (Tasks 1 and 4)
+# Federated duration + disposal-nature prediction 
 
 Implements the planned model from the proposal (Figure 2) for Task 1 (case duration) and
 Task 4 (disposal nature), with case type as the cascade input, and a menu of FL algorithms to
